@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffc2a0;
+  padding: 25px;
+  text-align: center;
+}
+.ul {
+  text-align: center;
+  padding: 30px;
+}
+.card {
+  text-align: center;
+  background-color: #ffffff;
+  padding: 10px;
+  border-radius: 15px;
+}
+.heading {
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #ff8542;
+}
